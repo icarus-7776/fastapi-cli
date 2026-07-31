@@ -1,0 +1,2 @@
+# fastapi-cli
+fastapi project
