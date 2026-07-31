@@ -1,0 +1,3 @@
+[project]
+name = "fastapi-cli"
+version = "0.1.0"
